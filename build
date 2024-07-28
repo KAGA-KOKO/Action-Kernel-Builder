@@ -4,7 +4,7 @@ set -e -x
 
 # Kernel Source
 KERNEL_SOURCE="https://github.com/KAGA-KOKO/KERNEL_OP4BFB"
-KERNEL_BRANCH="4.9.124"
+KERNEL_BRANCH="ksu"
 KERNEL_DEFCONFIG="oppo6765_19451_defconfig"
 
 # Prebuilt Clang Toolchain (AOSP)
