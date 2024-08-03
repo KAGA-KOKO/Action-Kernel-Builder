@@ -4,7 +4,7 @@ set -e -x
 
 # Kernel Source
 KERNEL_SOURCE="https://github.com/KAGA-KOKO/KERNEL_OP4BFB"
-KERNEL_BRANCH="ksu-4.9.126"
+KERNEL_BRANCH="magisk-4.9.127"
 KERNEL_DEFCONFIG="oppo6765_19451_defconfig"
 
 # Prebuilt Clang Toolchain (AOSP)
