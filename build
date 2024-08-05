@@ -8,7 +8,7 @@ KERNEL_BRANCH="magisk-4.9.127"
 KERNEL_DEFCONFIG="oppo6765_19451_defconfig"
 
 # Prebuilt Clang Toolchain (AOSP)
-CLANG_URL="https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/tags/android-9.0.0_r3/clang-4691093.tar.gz"
+CLANG_URL="https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/70d66e12a35fefd55ca4cf821f35405de6ffbe14/clang-r349610.tar.gz"
 
 # Prebuilt GCC Utilities (AOSP)
 GCC_x64="https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"
