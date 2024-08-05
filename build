@@ -48,7 +48,7 @@ PATH="${WORK}/clang/bin:${WORK}/x64/bin:${WORK}/x32/bin:/bin"
 cd "${KERNEL_SRC}" || exit 1
 
 # KernelSU - Disable if not building one.
-curl -LSs "https://raw.githubusercontent.com/tiann/KernelSU/main/kernel/setup.sh" | bash -s v0.9.5
+# curl -LSs "https://raw.githubusercontent.com/tiann/KernelSU/main/kernel/setup.sh" | bash -s v0.9.5
 
 # Start Compiling Kernel
 make_fun "${KERNEL_DEFCONFIG}"
