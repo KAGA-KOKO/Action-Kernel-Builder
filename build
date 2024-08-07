@@ -3,9 +3,9 @@
 set -e -x
 
 # Kernel Source
-KERNEL_SOURCE="https://github.com/KAGA-KOKO/KERNEL_OP4BFB"
-KERNEL_BRANCH="stock"
-KERNEL_DEFCONFIG="oppo6765_19451_defconfig"
+KERNEL_SOURCE="https://github.com/nathannxx/kernel_source_OP486C"
+KERNEL_BRANCH="master"
+KERNEL_DEFCONFIG="oppo6762_18540_defconfig"
 
 # Prebuilt Clang Toolchain (AOSP)
 CLANG_URL="https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/70d66e12a35fefd55ca4cf821f35405de6ffbe14/clang-r328903.tar.gz"
