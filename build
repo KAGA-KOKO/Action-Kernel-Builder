@@ -4,7 +4,7 @@ set -e -x
 
 # Kernel Source
 KERNEL_SOURCE="https://github.com/KAGA-KOKO/kernel-oppo-a12"
-KERNEL_BRANCH="test"
+KERNEL_BRANCH="ngetes-njir"
 KERNEL_DEFCONFIG="stock_defconfig"
 
 # Prebuilt Clang Toolchain (AOSP)
