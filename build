@@ -3,7 +3,7 @@
 set -e -x
 
 # Kernel Source
-KERNEL_SOURCE="https://github.com/Ipin22/kernel"
+KERNEL_SOURCE="https://github.com/KAGA-KOKO/kernel_oppo_A12"
 KERNEL_BRANCH="android-9.0"
 KERNEL_DEFCONFIG="CPH2083_defconfig"
 
