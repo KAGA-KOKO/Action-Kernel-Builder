@@ -3,8 +3,8 @@
 set -e -x
 
 # Kernel Source
-KERNEL_SOURCE="https://github.com/KAGA-KOKO/kernel_oppo_A12"
-KERNEL_BRANCH="android-9.0"
+KERNEL_SOURCE="https://github.com/KAGA-KOKO/koko-kernel"
+KERNEL_BRANCH="4.9-p-release"
 KERNEL_DEFCONFIG="CPH2083_defconfig"
 
 # Prebuilt Clang Toolchain (AOSP)
